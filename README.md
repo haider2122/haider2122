@@ -1,16 +1,32 @@
-## Hi there 👋
+# Haider Hussain Kagalwala
 
-<!--
-**haider2122/haider2122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer at IBM Software Labs  
+I write about Java internals, Linux systems, DSA, and backend engineering.
 
-Here are some ideas to get you started:
+## 📝 Latest Writing
+- [Java ProcessBuilder: Deadlocks, Zombies, and the 64KB Wall](YOUR_MEDIUM_LINK)
+- [Beyond the Mirror Trick: Mastering Knapsack DP](YOUR_MEDIUM_LINK)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Currently Working On
+- Interactive terminal via WebSockets + ProcessBuilder + PTY
+- JWKS key rotation automation with Cucumber
+
+## 🛠 Tech Stack
+Java · Spring · Linux · Security · DSA · WebSockets
+
+## 📫 Connect
+- Medium: [Your profile link]
+- LinkedIn: [Your LinkedIn link]
+```
+
+---
+
+Commit it. Done. Your profile now has a face.
+
+---
+
+### Step 2 — Create ProcessBuilder Examples Repo (20 minutes)
+
+Create a new repo named:
+```
+java-processbuilder-internals
