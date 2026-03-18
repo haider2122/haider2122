@@ -15,18 +15,8 @@ I write about Java internals, Linux systems, DSA, and backend engineering.
 Java · Spring · Linux · Security · DSA · WebSockets
 
 ## 📫 Connect
-- Medium: [Your profile link]
-- LinkedIn: [Your LinkedIn link]
+- Medium: https://medium.com/@haiderkagalwala
+- LinkedIn: https://www.linkedin.com/in/haider-kagalwala/
 ```
 
----
 
-Commit it. Done. Your profile now has a face.
-
----
-
-### Step 2 — Create ProcessBuilder Examples Repo (20 minutes)
-
-Create a new repo named:
-```
-java-processbuilder-internals
