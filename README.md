@@ -12,7 +12,7 @@ I write about Java internals, Linux systems, DSA, and backend engineering.
 - JWKS key rotation automation with Cucumber
 
 ## 🛠 Tech Stack
-Java · Spring · Linux · Security · DSA · WebSockets
+Java · Spring · Linux · Security · DSA · WebSockets. Systems Design. AI
 
 ## 📫 Connect
 - Medium: https://medium.com/@haiderkagalwala
