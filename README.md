@@ -28,8 +28,8 @@ Things I've actually debugged, broken, and fixed.
 
 | | |
 |---|---|
-| [Java ProcessBuilder: Deadlocks, Zombies, and the 64KB Wall](YOUR_LINK) | OS-level traps the JVM can't protect you from |
-| [Beyond the Mirror Trick: Mastering Knapsack DP](YOUR_LINK) | DP that actually sticks |
+| [Java ProcessBuilder: Deadlocks, Zombies, and the 64KB Wall](https://medium.com/gitconnected/java-processbuilder-deadlocks-zombies-and-the-64kb-wall-8f754bc15bbc) | OS-level traps the JVM can't protect you from |
+| [Beyond the Mirror Trick: Mastering Knapsack DP](https://medium.com/@haiderkagalwala/beyond-the-mirror-trick-mastering-knapsack-dp-via-push-based-tabulation-4bab96d9004b) | DP that actually sticks |
 
 → [Read everything](https://medium.com/@haiderkagalwala)
 
