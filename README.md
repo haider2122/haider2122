@@ -6,20 +6,14 @@ I build backend systems that are distributed, reliable, and production-grade.
 When a problem needs depth — kernel internals, JVM behaviour, protocol design,
 security architecture — I go there. Then I come back up and ship.
 
-Not a language guy. An engineer.
-
 ---
 
 ## 🔨 Currently Building
 
-- **[java-process-toolkit](link-when-ready)** — A production-safe wrapper around
+- **java-process-toolkit** — A production-safe wrapper around
   Java's ProcessBuilder. Handles the 64KB pipe wall, zombie reaping, stream
   draining, and timeout enforcement that the JVM quietly ignores.
   Born from [this article](https://medium.com/gitconnected/java-processbuilder-deadlocks-zombies-and-the-64kb-wall-8f754bc15bbc).
-
-- **Interactive terminal over the web** — WebSockets + PTY + Java.
-  Real shell. Real I/O. Side project.
-
 ---
 
 ## ✍️ Writing
@@ -37,8 +31,8 @@ Things I've actually debugged, broken, and fixed.
 
 ## 🧰 Stack
 
-**Languages** · Java · Python · Bash  
-**Backend** · Spring Boot · REST · WebSockets · Microservices · Event-Driven Architecture  
+**Languages** · Java · Python · Bash · Go 
+**Backend** · Spring · Java · WebSockets · Microservices · Go
 **Infrastructure** · Linux · Docker · GitHub Actions  
 **Security** · OAuth 2.0 · JWKS · JWT · OpenID Connect  
 **Concepts** · Distributed Systems · Systems Design · Process I/O · PTY
