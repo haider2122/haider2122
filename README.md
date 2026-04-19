@@ -43,4 +43,4 @@ Things I've actually debugged, broken, and fixed.
 
 [LinkedIn](https://www.linkedin.com/in/haider-kagalwala/) ·
 [Medium](https://medium.com/@haiderkagalwala) ·
-[DEV.to](YOUR_DEVTO_LINK)
+[DEV.to](https://dev.to/haider_hussainkagalwala_)
