@@ -15,7 +15,7 @@ Not a language guy. An engineer.
 - **[java-process-toolkit](link-when-ready)** — A production-safe wrapper around
   Java's ProcessBuilder. Handles the 64KB pipe wall, zombie reaping, stream
   draining, and timeout enforcement that the JVM quietly ignores.
-  Born from [this article](YOUR_ARTICLE_LINK).
+  Born from [this article](https://medium.com/gitconnected/java-processbuilder-deadlocks-zombies-and-the-64kb-wall-8f754bc15bbc).
 
 - **Interactive terminal over the web** — WebSockets + PTY + Java.
   Real shell. Real I/O. Side project.
